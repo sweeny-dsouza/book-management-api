@@ -1,6 +1,6 @@
 # Book Management REST API
 
-A simple REST API built using Node.js and Express.js for managing books.
+A beginner-friendly REST API built using Node.js and Express.js for managing books with CRUD operations.
 
 ## Features
 
